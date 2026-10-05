@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Inactive / historical repository.** Historical collaborative systems-change workspace. Retained as writing/community-process lineage; not an active coordination system.
+>
+> Preserved for project archaeology. Do not infer current system state from this repository.
+
 # Systems-Change-Repo
 
 A home base for a modern, global collaborative essay club focused on systems change.
